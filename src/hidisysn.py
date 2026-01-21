@@ -5,7 +5,7 @@ class HiDiSysN:
   def __ini__(self, *args, **kwargs):
     #
 
-  def train(self, edim=8, pldim=48, eddim=72):
+  def train(self, dim=8, edim=26, pldim=48, eddim=72):
     __init__()
     return 
   def test(self):
